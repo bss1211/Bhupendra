@@ -18,7 +18,7 @@ TECHNICAL SKILLS
 
 •	Tableau – Data Visualization, Business Intelligence, Forecasts, Tables, Charts, Dashboards.
 
-•	Operating Systems – Microsoft/Linux(UBUNTU).
+•	Operating Systems – Microsoft/Linux([Ubuntu](https://en.wikipedia.org/wiki/Ubuntu)).
 
 •	Other – MS Word,Excel,PowerPoint.
 
